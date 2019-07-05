@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DJI Mavic ROS Link</string>
+
+    <string name="rosconnect_hint">ROS Master URI</string>
+    <string name="rosconnect_label">Connect to ROS Master</string>
+    <string name="rosconnect_button">Connect</string>
+    <string name="rosconnect_placeholder">http://localhost:11311/</string>
+    <string name="rosconnect_no_uri_warning">Please input a URI</string>
+    <string name="rosmain_master_label">ROS Master:</string>
+    <string name="rosmain_message_label">Message:</string>
+    <string name="data_placeholder_none">None</string>
+    <string name="rosmain_local_label">Local Addr:</string>
+    <string name="rosmain_title">Ready to fly?</string>
+    <string name="rosmain_remaster_button">Restart Master Connection</string>
+    <string name="rosmain_start_node_button">Start Mavic Link Node</string>
+    <string name="ros_test">ROS Test</string>
+    <string name="rosmavic_data_label">Data:</string>
+</resources>
